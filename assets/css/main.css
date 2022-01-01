@@ -1582,7 +1582,9 @@
 		color: #49bf9d;
 		text-decoration: none;
 	}
-
+		a:link {
+			color: blue;
+		}
 		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
