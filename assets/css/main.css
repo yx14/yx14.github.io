@@ -1583,7 +1583,7 @@
 		text-decoration: none;
 	}
 		a:link {
-			color: blue;
+			color: #0000EE;
 		}
 		a:hover {
 			border-bottom-color: transparent;
